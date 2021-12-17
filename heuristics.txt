@@ -1,0 +1,11 @@
+Heuristics point system:
+
+point: 
+0s
+high cell in the corner
+if each column and row is monotonic
+difference between adjacent cells
+
+
+
+
