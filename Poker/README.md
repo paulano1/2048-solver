@@ -140,14 +140,4 @@ When played with the (experimental) `-u3` option, cards may not be equally space
 
 This manual page is for version 1.0 of the program.
 
-### AUTHOR
 
-Jay Ts  
-(http://jayts.com)
-
-### COPYRIGHT
-
-Copyright 2016 Jay Ts
-
-Released under the GNU Public License, version 3.0 (GPLv3)
-(http://www.gnu.org/licenses/gpl.html)
