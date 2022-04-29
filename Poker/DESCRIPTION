@@ -1,0 +1,10 @@
+A text-based video poker for Linux.
+
+Many variants of video poker found in casinos are included as options.
+
+The cards can be displayed as black or color characters, and also as Unicode
+card faces.
+
+It's a great way to practice your strategy for fun, or before going to a casino.
+The text-based playing action allows for quick play and more rapid training than
+with a GUI application.
